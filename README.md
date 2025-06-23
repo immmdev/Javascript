@@ -2,7 +2,7 @@
 
 This repository (`js`) is a well-structured and beginner-friendly resource for anyone looking to strengthen their understanding of **JavaScript**, especially for **web development**. It includes hand-written notes with comments, real-world implementations of key concepts, solved practice problems, and a mini project to tie everything together.
 
----
+
 
 ## 📌 What’s Inside
 
@@ -24,7 +24,7 @@ This repository (`js`) is a well-structured and beginner-friendly resource for a
   - Displays universities of any country entered by the user  
   - DOM Manipulation, User Input Handling, Clean Output Display
 
----
+
 
 ## 🧪 Project: University Names 🌐
 
@@ -40,7 +40,7 @@ This is a simple yet powerful mini project that takes a **country name as input*
 - CSS  
 - JavaScript (ES6+)
 
----
+
 
 ## 📚 Topics Covered
 
@@ -54,7 +54,7 @@ This is a simple yet powerful mini project that takes a **country name as input*
 - ✅ Custom Error Messages and Exception Patterns  
 - ✅ ES6+ Features
 
----
+
 
 ## 🚀 How to Use
 
@@ -62,19 +62,17 @@ This is a simple yet powerful mini project that takes a **country name as input*
    ```bash
    git clone https://github.com/immmdev/Javascript
 
----
+
 ## 🙌 Contribution & License
 
 This repo is created by **[Dev Singh](mailto:myselfdevsingh123@gmail.com)** as a personal learning and sharing resource. Contributions or suggestions are welcome!
 
----
 
 ## 📬 Contact
 
 📧 Email: [myselfdevsingh123@gmail.com](mailto:myselfdevsingh123@gmail.com)  
 💬 WhatsApp: +91 7235898946
 
----
 
 ## ⭐ Star this repo if it helped you!
 
